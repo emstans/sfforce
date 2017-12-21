@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.rtslabs.app.login</string>
+	<string name="app_name">EricApp</string>
+	<string name="app_package">com.rtslabs.app</string>
+</resources>
